@@ -185,8 +185,8 @@ Book added successfully!
 
 ## 👤 Author
 
-**Meera Krishna**  
-📧 Email: meerapadmakumar229@gmail.com <br>
-🔗 GitHub: [Meera-Krishna](https://github.com/Meera-Krishna)
+**Nadeem Saba**  
+📧 Email: nadeemsaba.work@gmail.com <br>
+🔗 GitHub: [Meera-Krishna](https://github.com/Nadeemsaba)
 
 ---
