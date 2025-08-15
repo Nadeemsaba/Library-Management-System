@@ -187,6 +187,6 @@ Book added successfully!
 
 **Meera Krishna**  
 📧 Email: meerapadmakumar229@gmail.com
-🔗 GitHub: [Meera-Krishna](https://github.com/Meera-Krishna)
+-🔗 GitHub: [Meera-Krishna](https://github.com/Meera-Krishna)
 
 ---
