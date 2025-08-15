@@ -187,6 +187,6 @@ Book added successfully!
 
 **Nadeem Saba**  
 📧 Email: nadeemsaba.work@gmail.com <br>
-🔗 GitHub: [Meera-Krishna](https://github.com/Nadeemsaba)
+🔗 GitHub: [Nadeemsaba](https://github.com/Nadeemsaba)
 
 ---
